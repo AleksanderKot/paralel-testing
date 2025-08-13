@@ -1,0 +1,18 @@
+datasources:d0b362c034f9af95a731db5bff31502995d0ec79
+commandlineoptions:9f8598a690c7367accf83ead504756ddd374acc9
+suitesfrom:no-suites-from-option
+file:e1635ee566e16945f798521429002e0b0f83303c
+--suite Suites.Presta.Add Item To Basket
+--suite Suites.Presta.Add Item To Basket2
+--suite Suites.Presta.Add Item To Basket3
+--suite Suites.Presta.Add Item To Basket4
+--suite Suites.Webgoat.01 testA3 1 2
+--suite Suites.Webgoat.02 testA3 1 3
+--suite Suites.Webgoat.03 testA3 1 4
+--suite Suites.Webgoat.04 testA3 1 5
+--suite Suites.Webgoat.05 testA3 1 9
+--suite Suites.Webgoat.06 testA3 1 10
+--suite Suites.Webgoat.07 testA3 1 11
+--suite Suites.Webgoat.08 testA3 1 12
+--suite Suites.Webgoat.09 testA3 1 13
+--suite Suites.Webgoat.10 testA3 2 3
